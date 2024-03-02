@@ -20,3 +20,14 @@
 <br>
 <br>
 함께 진행했던 깃허브 링크 : https://github.com/yjKang49/miniproject3.git
+
+
+
+<br>
+
+#### 실행 시키는 방법
+1. 코드를 전부 다운로드 받고
+2. main.py를 실행시킴-> streamlit 설치 필요
+   ```python
+   python -m streamlit run main.py
+   ```
